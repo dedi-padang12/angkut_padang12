@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Bang Angkut</string>
+    <string name="title_activity_maps">Map</string>
+
+
+    <string-array name="berat_angkutan_motor">
+        <item>Perkiraan Berat</item>
+        <item>5 - 10 Kg</item>
+        <item>10 - 15 Kg</item>
+        <item>15 - 20 Kg</item>
+        <item>20 - 25 Kg</item>
+        <item>25 - 30 Kg</item>
+
+    </string-array>
+
+    <string name="menu_edit">Edit</string>
+    <string name="menu_delete">Delete</string>
+    <string name="menu_attach">Attach</string>
+
+
+    <string name="Home">Home</string>
+    <string name="Orderan">Orderan</string>
+    <string name="Profil">Profil</string>
+    <string name="google_maps_api">
+AIzaSyCHYF333AldGKP8pkcpTiy9EWnQZnFqsf8</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="title_activity_angkut_motor">Map</string>
+
+</resources>

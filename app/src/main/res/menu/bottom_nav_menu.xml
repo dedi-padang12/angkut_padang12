@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+    <item android:title="@string/Home"
+        android:id="@+id/mn_home"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:onClick="Home"
+        />
+    <item android:title="@string/Orderan"
+        android:id="@+id/mn_order"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:onClick="menu_orderan"
+        />
+    <item android:title="@string/Profil"
+        android:id="@+id/mn_profil"
+        android:onClick="menu_profil"
+        android:icon="@drawable/ic_dashboard_black_24dp"/>
+
+</menu>
